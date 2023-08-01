@@ -1,6 +1,6 @@
 ## 31/07/2023
 ### Adicionado
-- Página para adicionar usuários
+- Página para adicionar, editar e listar usuários
 
 ## 25/07/2023
 ### Adicionado
