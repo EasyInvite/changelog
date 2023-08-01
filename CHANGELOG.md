@@ -1,3 +1,7 @@
+## 31/07/2023
+### Adicionado
+- Página para adicionar usuários
+
 ## 25/07/2023
 ### Adicionado
 - Importar comunidades a partir dos canais
