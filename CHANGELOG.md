@@ -1,3 +1,9 @@
+## 20/10/2023
+## Adicionado
+- Enquete (feeds)
+- Gráfico para exibição de votos ( logs do feed )
+- Excluir mensagens dos feeds ( dentro do WhatsApp )
+
 ## 31/07/2023
 ### Adicionado
 - Página para adicionar, editar e listar usuários
